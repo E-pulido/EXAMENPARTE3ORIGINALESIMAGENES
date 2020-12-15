@@ -142,4 +142,4 @@
   </body>
 </html>
 
-(https://E:\EricILERNA\2oCURSO\ClaseRuben\Resultadoimagenpáginaweb_Pulido_Eric.img.png.)
+
