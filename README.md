@@ -142,4 +142,4 @@
   </body>
 </html>
 
-<img src="https://github.com/E-pulido/EXAMENPARTE3ORIGINALESIMAGENES/blob/main/Resultado%20imagen%20p%C3%A1gina%20web_Pulido_Eric.PNG"
+<img src="https://github.com/E-pulido/EXAMENPARTE3ORIGINALESIMAGENES/blob/main/Resultado%20imagen%20p%C3%A1gina%20web_Pulido_Eric.PNG/>
